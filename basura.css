@@ -1,11 +1,26 @@
+
+.tittle {font-weight:bold;}
+.tittle:active{color:rgb(236, 6, 206)}
+.tittle:hover{ font-style: italic; } 
+
+
 .ezerojo{ color:red}
 .tatoverde{ color:green}
 .hola{ color:blue}
 #ezeazul{ color:blue}
 p strong em { color:red} 
-.texto2 {color:aqua}
+.texto1 {color:aqua}
 
 .a:hover{color:red} /* Cuando se pasa el mouse por encima. */
 .b:active{color:red} /* Mientras el usuario mantiene el click. */
 a:visited{} /* Vínculos visitados. */
+
+.texto2 { font-style: italic; }
+.texto3 { font-weight: bold; }
+.texto4 { font-family: Arial, Helvetica; }
+.texto5 { 
+    font-family: impact; 
+    font-size: 20px; 
+  }
+
 
