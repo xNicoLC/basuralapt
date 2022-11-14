@@ -5,7 +5,7 @@
 p strong em { color:red} 
 .texto2 {color:aqua}
 
-.a:hover{color:red}
-.b:active{color:red} 
-.c:visited{color:red} 
+.a:hover{color:red} /* Cuando se pasa el mouse por encima. */
+.b:active{color:red} /* Mientras el usuario mantiene el click. */
+a:visited{} /* Vínculos visitados. */
 
